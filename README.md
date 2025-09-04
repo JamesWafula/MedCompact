@@ -1,8 +1,11 @@
-# Medical Error Reporting Tool
+# MedComact is a Medical Error Reporting Tool
 
 ## Overview
 
 Medical Error Reporting Tool is a web application built with [Laravel](https://laravel.com/), a modern PHP framework. The project provides a robust platform for reporting, tracking, and analyzing medical errors, supporting authentication, user management, and rich data visualization.
+
+<img width="1552" height="1572" alt="image" src="https://github.com/user-attachments/assets/c0453906-7a80-4be3-9a2d-cb89682b15b6" />
+
 
 ## Technologies Used
 
